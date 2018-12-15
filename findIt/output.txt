@@ -1,0 +1,6 @@
+./ASCII_Scripts/Bork.sh
+./ASCII_Scripts/Space_Dog.sh
+./findIt.sh
+./.git/hooks/pre-push.sample
+./grouping.sh
+./mungerTest2.0.sh

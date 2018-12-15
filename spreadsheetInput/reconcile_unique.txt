@@ -1,0 +1,34 @@
+1	access	1	all	1
+16	age	2	54	2
+16	age_unit	12	year	12
+1	assay	1	long-RNA-seq	1
+16	body_part	10	temporal lobe cortex - healthy tissue from epileptic patient	10
+1	cell_count	1	1	1
+434	cell_type	38	oligodendrocytes	38
+1	data_set_id	1	quakeBrainGeo1	1
+16	donor	2	AB_S8	2
+1	enriched_in	1	exon	1
+466	geo_sample	1	GSM1657871	3
+16	GEO_Sample_age	2	postnatal 54 years	2
+16	GEO_Sample_platform_id	9	GPL18573	9
+1	geo_series	1	GSE67835	1
+1	GEO_Series_summary	1	We used single cell RNA sequencing on 466 cells to capture the cellular complexity of the adult and fetal human brain at a whole transcriptome level. Healthy adult temporal lobe tissue was obtained from epileptic patients during temporal lobectomy for medically refractory seizures. We were able to classify individual cells into all of the major neuronal, glial, and vascular cell types in the brain.	1
+1	lab	1	quake	1
+466	lab_quake_cell	1	1772078217.C03	1
+16	lab_quake_fluidics_chip	1	1772078217	1
+16	life_stage	12	postpartum	12
+466	meta	1	GSM1657871	3
+1	metaquakeBrainGeo1	0	metaquakeBrainGeo1	1
+1	ncbi_bio_project	1	PRJNA281204	1
+466	ncbi_bio_sample	1	SAMN03486326	1
+1	organ	1	brain	1
+1	pipeline	1	quakeRnaPipeline2.txt	1
+1	pmid	1	26060301	1
+466	seq_sample	1	GSM1657871	3
+16	sequencer	9	Illumina NextSeq 500	9
+1	species	1	Homo sapiens	1
+1	sra_study	1	SRP057196	1
+1	submission_date	1	Apr 14 2015	1
+1	submitter	1	spyros	1
+1	title	1	A survey of human brain transcriptome diversity at the single cell level	1
+1	update_date	1	Jul 02 2015	1

@@ -1,0 +1,200 @@
+1	 	1	1
+1	data_set_id quakeBrainGeo1	1	1
+1	metaquakeBrainGeo1 metaquakeBrainGeo1	1	0
+1	title A survey of human brain transcriptome diversity at the single cell level	1	1
+1	assay long-RNA-seq	1	1
+1	enriched_in exon	1	1
+1	access all	1	1
+1	lab quake	1	1
+1	cell_count 1	1	1
+1	pmid 26060301	1	1
+1	submitter spyros	1	1
+1	species Homo sapiens	1	1
+1	organ brain	1	1
+1	pipeline quakeRnaPipeline2.txt	1	1
+1	submission_date Apr 14 2015	1	1
+1	update_date Jul 02 2015	1	1
+1	geo_series GSE67835	1	1
+1	GEO_Series_summary We used single cell RNA sequencing on 466 cells to capture the cellular complexity of the adult and fetal human brain at a whole transcriptome level. Healthy adult temporal lobe tissue was obtained from epileptic patients during temporal lobectomy for medically refractory seizures. We were able to classify individual cells into all of the major neuronal, glial, and vascular cell types in the brain.	1	1
+1	ncbi_bio_project PRJNA281204	1	1
+1	sra_study SRP057196	1	1
+1	 	1	1
+16	lab_quake_fluidics_chip 1772078217	1	1
+16	GEO_Sample_age postnatal 54 years	2	2
+16	age 54	2	2
+16	age_unit year	12	12
+16	life_stage postpartum	12	12
+16	GEO_Sample_platform_id GPL18573	9	9
+16	donor AB_S8	2	2
+16	body_part temporal lobe cortex - healthy tissue from epileptic patient	10	10
+16	sequencer Illumina NextSeq 500	9	9
+1	 	1	1
+466	meta GSM1657871	3	1
+434	cell_type oligodendrocytes	38	38
+466	ncbi_bio_sample SAMN03486326	1	1
+466	seq_sample GSM1657871	3	1
+466	geo_sample GSM1657871	3	1
+466	lab_quake_cell 1772078217.C03	1	1
+1	 	1	1
+466	meta GSM1657872	3	1
+434	cell_type hybrid	46	46
+466	ncbi_bio_sample SAMN03486327	1	1
+466	seq_sample GSM1657872	3	1
+466	geo_sample GSM1657872	3	1
+466	lab_quake_cell 1772078217.C04	1	1
+1	 	1	1
+466	meta GSM1657873	3	1
+434	cell_type oligodendrocytes	38	38
+466	ncbi_bio_sample SAMN03486328	1	1
+466	seq_sample GSM1657873	3	1
+466	geo_sample GSM1657873	3	1
+466	lab_quake_cell 1772078217.C06	1	1
+1	 	1	1
+466	meta GSM1657874	3	1
+434	cell_type hybrid	46	46
+466	ncbi_bio_sample SAMN03486329	1	1
+466	seq_sample GSM1657874	3	1
+466	geo_sample GSM1657874	3	1
+466	lab_quake_cell 1772078217.C07	1	1
+1	 	1	1
+466	meta GSM1657875	3	1
+434	cell_type hybrid	46	46
+466	ncbi_bio_sample SAMN03486330	1	1
+466	seq_sample GSM1657875	3	1
+466	geo_sample GSM1657875	3	1
+466	lab_quake_cell 1772078217.C08	1	1
+1	 	1	1
+466	meta GSM1657876	3	1
+434	cell_type oligodendrocytes	38	38
+466	ncbi_bio_sample SAMN03486331	1	1
+466	seq_sample GSM1657876	3	1
+466	geo_sample GSM1657876	3	1
+466	lab_quake_cell 1772078217.C09	1	1
+1	 	1	1
+466	meta GSM1657877	3	1
+434	cell_type oligodendrocytes	38	38
+466	ncbi_bio_sample SAMN03486332	1	1
+466	seq_sample GSM1657877	3	1
+466	geo_sample GSM1657877	3	1
+466	lab_quake_cell 1772078217.C14	1	1
+1	 	1	1
+466	meta GSM1657878	3	1
+434	cell_type hybrid	46	46
+466	ncbi_bio_sample SAMN03486333	1	1
+466	seq_sample GSM1657878	3	1
+466	geo_sample GSM1657878	3	1
+466	lab_quake_cell 1772078217.C16	1	1
+1	 	1	1
+466	meta GSM1657879	3	1
+434	cell_type hybrid	46	46
+466	ncbi_bio_sample SAMN03486334	1	1
+466	seq_sample GSM1657879	3	1
+466	geo_sample GSM1657879	3	1
+466	lab_quake_cell 1772078217.C17	1	1
+1	 	1	1
+466	meta GSM1657880	3	1
+434	cell_type hybrid	46	46
+466	ncbi_bio_sample SAMN03486335	1	1
+466	seq_sample GSM1657880	3	1
+466	geo_sample GSM1657880	3	1
+466	lab_quake_cell 1772078217.C18	1	1
+1	 	1	1
+466	meta GSM1657881	3	1
+434	cell_type oligodendrocytes	38	38
+466	ncbi_bio_sample SAMN03486336	1	1
+466	seq_sample GSM1657881	3	1
+466	geo_sample GSM1657881	3	1
+466	lab_quake_cell 1772078217.C20	1	1
+1	 	1	1
+466	meta GSM1657882	3	1
+434	cell_type hybrid	46	46
+466	ncbi_bio_sample SAMN03486337	1	1
+466	seq_sample GSM1657882	3	1
+466	geo_sample GSM1657882	3	1
+466	lab_quake_cell 1772078217.C23	1	1
+1	 	1	1
+466	meta GSM1657883	3	1
+434	cell_type hybrid	46	46
+466	ncbi_bio_sample SAMN03486338	1	1
+466	seq_sample GSM1657883	3	1
+466	geo_sample GSM1657883	3	1
+466	lab_quake_cell 1772078217.C28	1	1
+1	 	1	1
+466	meta GSM1657884	3	1
+434	cell_type hybrid	46	46
+466	ncbi_bio_sample SAMN03486339	1	1
+466	seq_sample GSM1657884	3	1
+466	geo_sample GSM1657884	3	1
+466	lab_quake_cell 1772078217.C29	1	1
+1	 	1	1
+466	meta GSM1657885	3	1
+434	cell_type astrocytes	62	62
+466	ncbi_bio_sample SAMN03486340	1	1
+466	seq_sample GSM1657885	3	1
+466	geo_sample GSM1657885	3	1
+466	lab_quake_cell 1772078217.C32	1	1
+1	 	1	1
+466	meta GSM1657886	3	1
+434	cell_type hybrid	46	46
+466	ncbi_bio_sample SAMN03486341	1	1
+466	seq_sample GSM1657886	3	1
+466	geo_sample GSM1657886	3	1
+466	lab_quake_cell 1772078217.C33	1	1
+1	 	1	1
+466	meta GSM1657887	3	1
+434	cell_type hybrid	46	46
+466	ncbi_bio_sample SAMN03486342	1	1
+466	seq_sample GSM1657887	3	1
+466	geo_sample GSM1657887	3	1
+466	lab_quake_cell 1772078217.C39	1	1
+1	 	1	1
+466	meta GSM1657888	3	1
+434	cell_type hybrid	46	46
+466	ncbi_bio_sample SAMN03486343	1	1
+466	seq_sample GSM1657888	3	1
+466	geo_sample GSM1657888	3	1
+466	lab_quake_cell 1772078217.C40	1	1
+1	 	1	1
+466	meta GSM1657889	3	1
+434	cell_type oligodendrocytes	38	38
+466	ncbi_bio_sample SAMN03486344	1	1
+466	seq_sample GSM1657889	3	1
+466	geo_sample GSM1657889	3	1
+466	lab_quake_cell 1772078217.C47	1	1
+1	 	1	1
+466	meta GSM1657890	3	1
+434	cell_type oligodendrocytes	38	38
+466	ncbi_bio_sample SAMN03486358	1	1
+466	seq_sample GSM1657890	3	1
+466	geo_sample GSM1657890	3	1
+466	lab_quake_cell 1772078217.C52	1	1
+1	 	1	1
+466	meta GSM1657891	3	1
+434	cell_type oligodendrocytes	38	38
+466	ncbi_bio_sample SAMN03486355	1	1
+466	seq_sample GSM1657891	3	1
+466	geo_sample GSM1657891	3	1
+466	lab_quake_cell 1772078217.C56	1	1
+1	 	1	1
+466	meta GSM1657892	3	1
+434	cell_type oligodendrocytes	38	38
+466	ncbi_bio_sample SAMN03486356	1	1
+466	seq_sample GSM1657892	3	1
+466	geo_sample GSM1657892	3	1
+466	lab_quake_cell 1772078217.C58	1	1
+1	 	1	1
+466	meta GSM1657893	3	1
+434	cell_type OPC	18	18
+466	ncbi_bio_sample SAMN03486357	1	1
+466	seq_sample GSM1657893	3	1
+466	geo_sample GSM1657893	3	1
+466	lab_quake_cell 1772078217.C59	1	1
+1	 	1	1
+466	meta GSM1657894	3	1
+434	cell_type oligodendrocytes	38	38
+466	ncbi_bio_sample SAMN03486345	1	1
+466	seq_sample GSM1657894	3	1
+466	geo_sample GSM1657894	3	1
+466	lab_quake_cell 1772078217.C60	1	1
+1	 	1	1
+466	meta GSM1657895	3	1
